@@ -75,6 +75,6 @@ $entries |
     Set-Content -Path $OutputPath -Encoding UTF8
 
 if ($PauseOnEnd) {
-    Write-Host "DB table info dump is done."
+    Write-Host "DB CS defined info dump is done."
     Read-Host
 }
