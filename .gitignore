@@ -1,2 +1,4 @@
 .idea
 .cppDump
+__pycache__/
+*.py[cod]
